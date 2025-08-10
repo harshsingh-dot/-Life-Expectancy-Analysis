@@ -21,6 +21,3 @@ See `requirements.txt` for all needed packages.
 
 ## Data Source
 World Health Organization (WHO) and United Nations.
-
-## Author
-Generated with ❤️ using ChatGPT
